@@ -22,7 +22,7 @@ cd hello-jest
 yarn add -D jest
 ```
 
-Create a js file to test named `sum.js`
+Create a js file to be tested named `sum.js`
 
 ```js
 // sum.js
