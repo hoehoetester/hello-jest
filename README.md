@@ -56,6 +56,8 @@ Open terminal and run test
 ```
 yarn test
 ```
+![step1](https://user-images.githubusercontent.com/13145406/56004952-0d01be00-5d22-11e9-9afe-2d146031a8b1.png)
+
 
 ## Step 2: Add ES2015
 
