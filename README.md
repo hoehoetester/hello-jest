@@ -10,6 +10,8 @@ Write unit test with Jest and Typescript
 1. Step 2: Add Babel for ES2015
 1. Step 3: Add Typescript
 
+\* Each steps can be seen in brances
+
 ## Step 1: Simplest start set
 
 Create a directory and install jest
@@ -56,8 +58,8 @@ Open terminal and run test
 ```
 yarn test
 ```
-![step1](https://user-images.githubusercontent.com/13145406/56004952-0d01be00-5d22-11e9-9afe-2d146031a8b1.png)
 
+![step1](https://user-images.githubusercontent.com/13145406/56004952-0d01be00-5d22-11e9-9afe-2d146031a8b1.png)
 
 ## Step 2: Add ES2015
 
