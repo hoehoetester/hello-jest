@@ -3,6 +3,9 @@
     "test": "jest --watchAll"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/polyfill": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
     "jest": "^24.7.1"
   }
 }
